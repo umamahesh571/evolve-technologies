@@ -24,3 +24,4 @@ This is a simple Spring Boot application packaged as a WAR file and designed for
 - `mvn clean package`
 - Deploy `target/evolve-technologies.war` to `/webapps/` in your Tomcat server
 - Access the app at `http://<host>:8080/evolve-technologies/`
+happy learnig
